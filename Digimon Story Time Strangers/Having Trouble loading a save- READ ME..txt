@@ -1,0 +1,17 @@
+QUESTION: I dropped "slot_0003.bin" & "0003.bin" in my Digimon Save Data folder, and I don't see it in game, why? 
+ANSWER: You likely don't have a save spot up until that slot number! Scenario A below is a method I know works, takes a minute more. Scenario B is easier, and should work too. Just never tested it. WARNING: If fix B doesn't work, you may just corrupt the save file and need to re-download it from my Repo.
+
+A [TESTED AND I NOW THIS WORKS]:  
+1. Create save spots in-game up to the save file number you dropped in. 
+ex. in-game save spots in-game in Spot 1 and Spot 2. Restart your game, now Spot 3 ("slot_0003.bin") will show in-game. 
+
+B [I HAVE NOT TESTED THIS, BUT IT SHOULD WORK]: 
+1. Re-name the "slot_0003.bin" and correlating "0003.bin" to the # you want it in the save slot- this will/should overwrite or put it in the save spot you want it in-game. 
+Ex. Rename ""slot_0003.bin" & "0003.bin" -> as "slot_0001.bin" / "0001.bin"
+
+
+-------------------------------------------
+QUESTION: I still don't see my saves? 
+ANSWER: Make sure you are dropping in BOTH the slot#.bin and 000#.bin files into the below file path (your game install folder): 
+ "Digimon Story - Time Stranger\gamedata\savedata\STEAM ID NUMBERS\ --DROP FILES HERE--"
+

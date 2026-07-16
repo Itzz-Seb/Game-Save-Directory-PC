@@ -1,0 +1,20 @@
+* I transferred over from PS5 to PC, and the ONLY save file for the chapter I was on had mods for near infinite Yen, HP Capsules, & some unlocked Digimon that shouldn't exist yet.
+-> # I used Anamnesis_SE to take a modified save file, and CONVERTED IT BACK ~vanilla playthrough (as much as possible, may be off a few digits, etc..)
+
+-------------------------------------------------------------------
+
+-> Starting from Ch. 12 I Restored AP points to what Agent Rank 3 should have (and spent to match my PS5 ch. 12 progress), ~50k yen to match my progress & allow some re-spending
+since I imagine players taking on this save will not want to keep everything I have, etc.. 
+
+## The only thing I could not fix/find on Anamnesis was Aegiomon being level 35, so he still quite OP; despite the game leveling him down to Lv 30 (his talent level). 
+Can always just skip his turns/use as a status cleanser player.
+
+-------------------------------------------------------------------
+
+** I provided Anamnesis_SE onto this repo for you guys as well, in case you want to replace my Digimon to match your own progress, or just mod money for convenience. It's a single player game, it doesn't matter. Do what's fun for YOU!!  ** 
+
+
+-------------------------------------------------------------------
+Anamnesis_SE Source from: https://www.nexusmods.com/digimonstorytimestranger/mods/134 
+## IT IS POSSIBLE TO CORRUPT A SAVE FILE. BACKUP BEFORE HAND.
+# Anamnesis_SE: Developed by DotingDavid, NOT ME. 
