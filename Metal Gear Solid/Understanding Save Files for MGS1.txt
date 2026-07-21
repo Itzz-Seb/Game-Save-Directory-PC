@@ -1,0 +1,22 @@
+* MGS1 for PC/Steam ver in NA/EU uses a single .bin data file that stores ALL saves into that single file.
+This is because it tries to emulate an SD card & Slots (#1 and #2) from a PS3. 
+
+1. All of the important repo saves are on Slot #2, so that you can overwrite/make personal saves on Slot #2. 
+(What you do on Slot #1 in game is separate from Slot #2)
+
+2. These saves only work on NA/EU and Steam ver of MGS1. I believe GOG uses a diff (.sav) format for saves.
+
+
+## -- SAVES I HAVE IN SLOT 2: --
+1. Heliport intro
+2. Cell intro
+3. Armory intro
+4. Armory Sth (Revolver Ocelot Boss Battle; just break final cement door)
+5. Armory Sth (AFTER completed RO boss battle) 
+6. Canyon Vulkan Raven (tank) Boss battle start 
+7. Nuclear Bldg intro 
+
+
+Saves in Slot 1 can be ignored/deleted/overwritten. 
+It's just my personal/throwaway spot so I dont mess with 
+the repo backup.
